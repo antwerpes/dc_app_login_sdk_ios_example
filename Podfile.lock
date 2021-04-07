@@ -1,0 +1,16 @@
+PODS:
+  - DocCheckAppLoginSDK (0.1.0)
+
+DEPENDENCIES:
+  - DocCheckAppLoginSDK (from `../DocCheckAppLoginSDK`)
+
+EXTERNAL SOURCES:
+  DocCheckAppLoginSDK:
+    :path: "../DocCheckAppLoginSDK"
+
+SPEC CHECKSUMS:
+  DocCheckAppLoginSDK: 65221b6ca3c6fa63843c58e4aa0bb90e546ee68b
+
+PODFILE CHECKSUM: 8a79a4156ba9ea2ae0c18ea2aa9e77ef25325482
+
+COCOAPODS: 1.9.3
